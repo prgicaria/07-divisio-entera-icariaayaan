@@ -1,5 +1,5 @@
 D = int(input('Escriu un nombre enter: '))
 d = int(input('Escriu un nombre enter: '))
-print('Divisió: ',D,'/',d)
+print(f'Divisió: {D}/{d}')
 print('Quocient: ',D//d)
 print('Residu: ',D%d)
